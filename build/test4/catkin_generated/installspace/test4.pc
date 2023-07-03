@@ -1,0 +1,8 @@
+prefix=/home/liu/桌面/lskros_ws/install
+
+Name: test4
+Description: Description of test4
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

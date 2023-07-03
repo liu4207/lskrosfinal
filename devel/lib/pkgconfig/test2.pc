@@ -1,0 +1,8 @@
+prefix=/home/liu/桌面/lskros_ws/devel
+
+Name: test2
+Description: Description of test2
+Version: 0.0.0
+Cflags: -I/home/liu/桌面/lskros_ws/src/test2/include
+Libs: -L${prefix}/lib 
+Requires: roscpp sensor_msgs
